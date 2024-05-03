@@ -9,13 +9,13 @@ const DisplayCarousel = ({movies}) => {
   return (
     <div className='movie-carousel-container'>
         <Carousel>
-            
+             
             {
             movies?.map((movie, i) => {
                 return (
                     <Paper key={i}>
                         <div className='movie-card-container'>  
-                            <div className="movie-card">
+                            <div className="movie-card" style = {{"--img": `url(${movie.backdrops.split(',')[0]})` }}>
                                 <div className="movie-detail">
                                     <div className="movie-poster">
                                         <img src={movie.poster} alt="" />
