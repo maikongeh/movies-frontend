@@ -24,7 +24,7 @@ const Header = () => {
                     <Nav.Link as={NavLink} to = "/" >Home</Nav.Link>
                     <Nav.Link as={NavLink} to = "/movies" >Watch Later</Nav.Link>
                 </Nav>
-                <Button variant="outline-info" className='me-2'>Login</Button>
+                <Button variant="outline-info" className='me-2 '>Login</Button>
 
                 <Button variant="outline-info">Register</Button>
             </Navbar.Collapse>
