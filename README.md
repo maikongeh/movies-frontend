@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ![Ui](src/images/homescreen.png)
 
 ### MovieDisplay Carousel
