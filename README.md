@@ -11,3 +11,6 @@ Users can watch the trailer of each movie and can submit a review of the movie a
 * Create the Register/ Login functionality to verify user's reviews.
 * Distinguish critics/ public users
 * Add a Star rating system to gauge critics/ public ratings on movies.  
+
+### Acknowledgement
+* This project is following a tutorial - (https://www.youtube.com/watch?v=5PdEmeopJVQ&t=8685s&ab_channel=freeCodeCamp.org)
