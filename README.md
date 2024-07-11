@@ -8,9 +8,8 @@ Users can watch the trailer of each movie and can submit a review of the movie a
 * Users can gauge whether a movie is worth watching based on the trailer and other user's feedback
 
 ### Future updates
-* Create the Register/ Login functionality to verify user's reviews.
-* Distinguish critics/ public users
-* Add a Star rating system to gauge critics/ public ratings on movies.  
+* Login to personal youtube account
+* Have a post comment feature using YT public data APIs.
 
 ### Acknowledgement
 * This project is following a tutorial - (https://www.youtube.com/watch?v=5PdEmeopJVQ&t=8685s&ab_channel=freeCodeCamp.org)
